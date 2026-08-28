@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# elle alinan yedekler
+*.bak
+*.bak[0-9]*
+*.bak[a-z]*
+*.original.md
+osmandesign (1).html*
+osmandesign-*-final.html
+sevora-style.html
+
+# ekran goruntuleri ve gecici gorseller
+Ekran Resmi*.png
+ChatGPT Image*.png
+
+# ortam dosyalari
+.env
+.env.*
